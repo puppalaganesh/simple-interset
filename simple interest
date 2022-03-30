@@ -1,0 +1,4 @@
+import math
+p,t,r=list(map(int,input().split()))
+s=(p*t*r)/100
+print(round(s))
